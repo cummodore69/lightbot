@@ -1,0 +1,24 @@
+# If enabled, the bot will be limited to #bot-test only
+# NOT WORKING YET
+beta-mode: false
+
+out-of-pepsi: true
+out-of-pills: true
+rainbow-role: true
+fol-pattern: true
+pepsi-pattern: true
+random-status: true
+
+commands:
+  test: true
+  ping: true
+  pepsi: true
+
+bot-info:
+  prefix: "c!"
+  status: ["Pepsiman", "Pepsi drinking simulator", "in the bathroom releasing the Pepsi", "Pepsi fasting day #1"]
+  token: "<TOKEN>"
+
+#oop is for out of pepsi and oocp is for out of pills
+oop-channel: 795801218626486294
+oocp-channel: 795801218626486294
