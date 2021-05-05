@@ -1,2 +1,9 @@
 # Lightbot
-Bot that has a pepsi addiction
+A Discord bot made in Python with discord.py, it has some inside jokes in it, but the functions and their implementations are nice for a beginner.
+
+Comments will be added soon.
+
+Contriubtors from the original private repo: 
+  - [Femboyhooters-png](https://github.com/Femboyhooters-png) (Original idea of the project)
+  - [E404NNF](https://github.com/e404nnf) (Worked on the config and random status)
+  - [Esslam912](https://github.com/Esslam912) (Worked on Rainbow role and looped messages, doesn't have anything to do with the organization).
