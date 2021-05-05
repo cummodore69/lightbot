@@ -1,5 +1,4 @@
 # If enabled, the bot will be limited to #bot-test only
-# NOT WORKING YET
 beta-mode: false
 
 out-of-pepsi: true
@@ -16,7 +15,9 @@ commands:
 
 bot-info:
   prefix: "c!"
+  # Random status
   status: ["Pepsiman", "Pepsi drinking simulator", "in the bathroom releasing the Pepsi", "Pepsi fasting day #1"]
+  # Discord bot token
   token: "<TOKEN>"
 
 #oop is for out of pepsi and oocp is for out of pills
